@@ -1,2 +1,2 @@
 # Oslo-bysykkel-dashboard
-Dashboard for daily Oslo bysykkel rides since may 2022
+Dashboard for daily Oslo bysykkel rides since January 2023. Further development: Add an option for looking at the most common routes in the map sedtion and a forecast dropdown option.
